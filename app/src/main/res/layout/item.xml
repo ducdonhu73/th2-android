@@ -24,14 +24,14 @@
                 android:layout_width="match_parent"
                 android:gravity="center"
                 android:layout_height="wrap_content"
-                android:text="Ten cong viec"
+                android:text="Dia chi"
                 android:textStyle="bold"/>
             <TextView
                 android:id="@+id/txtND"
                 android:layout_width="match_parent"
                 android:gravity="center"
                 android:layout_height="wrap_content"
-                android:text="Noi dung cong viec"/>
+                android:text="Dien tich"/>
 
         </LinearLayout>
         <LinearLayout
@@ -43,17 +43,17 @@
                 android:id="@+id/txtngay"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Ngay hoan thanh"/>
+                android:text="Gia"/>
             <TextView
                 android:id="@+id/txtTT"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="tinh trang"/>
+                android:text="Dich vu:"/>
             <TextView
                 android:id="@+id/txtCT"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Cong tac"/>
+                android:text=""/>
         </LinearLayout>
 
     </LinearLayout>

@@ -37,27 +37,32 @@
             android:id="@+id/eTen"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Ten cong viec"/>
+            android:hint="Dia chi"/>
         <EditText
             android:id="@+id/eND"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Noi dung"/>
+            android:hint="Dien tich"/>
         <EditText
             android:id="@+id/eNgay"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Ngay yyyy/mm/dd"/>
+            android:hint="Gia"/>
         <CheckBox
             android:id="@+id/cbTT"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Hoan thanh"/>
+            android:text="Wifi"/>
         <CheckBox
             android:id="@+id/cbCT"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Lam chung"/>
+            android:text="Điều hòa"/>
+        <CheckBox
+            android:id="@+id/cbMG"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Máy giặt"/>
 
 
     </LinearLayout>
